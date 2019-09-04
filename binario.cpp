@@ -34,4 +34,4 @@ int main()
     digitos=digitos-1;
   }
   cout << total << endl;
-
+}
