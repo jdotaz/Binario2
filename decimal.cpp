@@ -1,3 +1,9 @@
+ #include <iostream>
+
+using namespace std;
+
+int main()
+{
   int decimal;
   int total2=0;
   int mult=1;
